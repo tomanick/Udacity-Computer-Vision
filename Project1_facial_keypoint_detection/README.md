@@ -11,7 +11,6 @@ Facial keypoints (also called facial landmarks) are the small magenta dots shown
 
 ![image](https://github.com/tomanick/Udacity-Computer-Vision/blob/master/images/landmarks_numbered.jpg)
 
-
 ## Project files
 The project will be broken up into a few main parts in four Python notebooks:
 
