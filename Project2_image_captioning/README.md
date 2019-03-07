@@ -1,7 +1,7 @@
 # Project2 Image Captioning
 
 ## Project overview
-In this project, you will use the dataset of image-caption pairs to train a CNN-RNN model to automatically generate images from captions.
+In this project, I will use the dataset of image-caption pairs to train a CNN-RNN model to automatically generate images from captions.
 
 ![image](https://github.com/tomanick/Udacity-Computer-Vision/blob/master/Project2_image_captioning/images/encoder-decoder.png)
 
