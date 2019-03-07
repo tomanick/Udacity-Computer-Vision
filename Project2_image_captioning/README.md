@@ -16,4 +16,4 @@ Notebook 3 : Train CNN-RNN model
 
 Notebook 4 : Using my trained model to generate captions for images in the test dataset
 
-Models.py: The CNN-RNN architecture
+Model.py: The CNN-RNN architecture
