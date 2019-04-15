@@ -1,4 +1,4 @@
-# Project2 Landmark Detection and Tracking (SLAM)
+# Project3 Landmark Detection and Tracking (SLAM)
 
 ## Project overview
 In this project, I'll implement SLAM (Simultaneous Localization and Mapping) for a 2 dimensional world! 
