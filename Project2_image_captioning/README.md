@@ -1,7 +1,7 @@
 # Project2 Image Captioning
 
 ## Project overview
-In this project, I will use the dataset of image-caption pairs to train a CNN-RNN model to automatically generate images from captions. The network is trained on the Microsoft Common Objects in COntext (MS COCO) dataset. The image captioning model is displayed below.
+In this project, I will use the dataset of image-caption pairs to train a CNN-RNN model to automatically generate images from captions. The network is trained on the Microsoft Common Objects in Context (MS COCO) dataset. The image captioning model is displayed below.
 
 ![image](https://github.com/tomanick/Udacity-Computer-Vision/blob/master/Project2_image_captioning/images/encoder-decoder.png)
 
